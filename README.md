@@ -8,13 +8,13 @@ npm (comes with Node.js)
 Git (download here)
 
 1.First, open your terminal (Command Prompt, PowerShell, or Bash) on your desktop or preferred directory where you want to keep the project.
-  Run the following command to clone the repository from GitHub: **git clone https://github.com/OmPatel272005star/WebPay.git**
-  This command downloads the entire project codebase into a folder named WebPay.
-  
+Run the following command to clone the repository from GitHub: **git clone https://github.com/OmPatel272005star/WebPay.git**
+This command downloads the entire project codebase into a folder named WebPay.
+
 2.Navigate to the Project Directory
-   Change your working directory to the cloned project folder:: cd WebPay
-   
-3. Install Root-Level Dependencies : ```npm install
+Change your working directory to the cloned project folder:: cd WebPay
+
+3.Install Root-Level Dependencies : ```npm install
    
 4. Setup and Run the Frontend
    Navigate to the frontend directory:```cd frontend
