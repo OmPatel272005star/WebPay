@@ -29,5 +29,3 @@ Git (download here)
   If you haven’t installed backend dependencies yet, run: ```npm i 
   
   Then, start the backend server: ```npm start (will start on 3000)
-
-   
