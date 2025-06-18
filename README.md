@@ -15,9 +15,8 @@ This command downloads the entire project codebase into a folder named WebPay.
 Change your working directory to the cloned project folder:: cd WebPay
 
 3.Install Root-Level Dependencies : ```npm install
-   
-4. Setup and Run the Frontend
-   Navigate to the frontend directory:```cd frontend
+
+4. Setup and Run the Frontend Navigate to the frontend directory:```cd frontend
    
    Install the frontend dependencies:```npm install
    
